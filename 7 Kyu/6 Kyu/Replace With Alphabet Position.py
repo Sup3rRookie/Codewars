@@ -1,3 +1,14 @@
+'''
+In this kata you are required to, given a string, replace every letter with its position in the alphabet.
+
+If anything in the text isn't a letter, ignore it and don't return it.
+
+"a" = 1, "b" = 2, etc.
+
+Example
+alphabet_position("The sunset sets at twelve o' clock.")
+'''
+
 def alphabet_position(text):
     char_to_num = {"a":"1", "b":"2","c":"3","d":"4","e":"5",
     "f":"6", "g":"7","h":"8","i":"9","j":"10",
