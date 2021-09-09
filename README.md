@@ -7,14 +7,13 @@ I have taken a challenge to solve 1 Kata everyday. I will be storing the solutio
 
 
 
-| Language | Kata Count     | 
-| :-------- | :------- | 
+| Language | Kata Count     |
+| :-------- | :------- |
 | `Python`   | 57|
  | `JavaScript` | 32 |
 
 
 
-CodeWars profile: https://www.codewars.com/users/DProtege.io
+CodeWars profile: https://www.codewars.com/users/Meliodas.io
 
 LinkedIn: https://www.linkedin.com/in/auliya-izham/
-  
