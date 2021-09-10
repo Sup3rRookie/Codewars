@@ -15,7 +15,7 @@ Examples:
 '''
 
 def binary_array_to_number(arr):
-    listToStr = '0b'+''.join([str(elem) for elem in arr])
+    listToStr = ''.join([str(elem) for elem in arr])
     return int(listToStr,2)
 
 binary_array_to_number([1, 1, 1, 1, 0, 0, 0, 0, 1])
