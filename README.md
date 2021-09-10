@@ -1,7 +1,7 @@
 
 # Coding Challenge on CodeWars
 
-I have taken a challenge to solve 1 Kata everyday. I will be storing the solutions for the problems I solve here.
+I have taken a challenge to solve 1 Kata everyday. I will be storing the solutions for the problems I solved here.
 
 ### Programming Languages used to solve the Kata
 
