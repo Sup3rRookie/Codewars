@@ -20,11 +20,9 @@ def get_middle(str):
     # Finding middle index of string
     if length % 2 == 0:
         res = str[middle] + str[int(middle+1)]
-        print(res)
         return res
     else:
         res = str[int(middle+1)]
-        print(res)
         return res
 
 get_middle(str)
