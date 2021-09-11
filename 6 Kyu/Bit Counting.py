@@ -8,6 +8,7 @@ so the function should return 5 in this case
 '''
 
 def binary_array_to_number(arr):
+    # Solution 1
     listToStr = f'{arr:08b}'
     counter = 0
     for i in listToStr:
@@ -15,4 +16,10 @@ def binary_array_to_number(arr):
             counter += 1
     return counter
 
+    # Solution 2
+    total = 0
+    while n > 0:
+        total += n % 2
+        n >>= 1
+    return total
 binary_array_to_number(15)
